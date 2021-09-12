@@ -1,4 +1,8 @@
-# forum
+# Projeto Forum
+ 
+ * Imagine um site, no qual precisa receber dados externos para mostrar no front de um site, ideia basica.
+ * Para efetuar testes, fazer o uso da aplicação Postman.
+ 
  
 - Aplicação com Java e Spring Boot
 - Sem uso de XML
